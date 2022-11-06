@@ -1,1 +1,1 @@
-# SSNE
+# SSNE - Sztuczne Sieci Neuronowe
