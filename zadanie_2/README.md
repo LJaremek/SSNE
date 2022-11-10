@@ -4,3 +4,9 @@ W oparciu o dostępne atrybuty zbuduj model, który pomoże oszacować, czy dana
 Proszę przygotować kod, który pozwoli na uzyskanie DOKŁADNIE tych samych predykcji, które zostały dołączone w pliku wynikowym. W tym celu proszę zadbać o odpowiednie seedy losowych modułów itp.
 
 W pliku z predykcjami powinna się znajdować dokładnie jedna kolumna, oznaczająca przewidywaną przez Państwa klasę ceny mieszkania (0 <- cheap, 1 <- average, 2 <- expensive).
+
+
+Omówienie plików:
+- train_data.csv - dane treningowe
+- test_data.csv - dane do testowania
+- preds.csv - predykcja dla test_data.csv
